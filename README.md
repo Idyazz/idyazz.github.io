@@ -33,8 +33,18 @@ Users should be able to:
 
 ### LINKS
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-w-moblie-first-design-using-vsc-AflCto3k6-
+- Live Site URL: https://idyazz.github.io/
+
+
+## THE PROCESS
+
+- Created the HTML and added custom fonts Fraunces and Montserrat
+- Uploaded images to postimages.org
+- Specified the images required based on user's device in the html
+- Created a css stylesheet and layed out the design with a mobile first approach. This ensures that the website displays properly whether the user is using a phone, tablet, or desktop
+- Started working on CSS styles in this order; container, image, title, item, description, discount price, original price, add to cart button, and finally the attribution at the bottom
+- added a special feature where if you hover over the add to cart button it transitions into a lighter green with a dark shadow behind it, as well as slighty increasing in size
 
 ### BUILT WITH
 
@@ -62,6 +72,5 @@ I need to continue focusing on the grid layout for websites as I am still not fa
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Yassine Idmahand](https://github.com/Idyazz)
+- Frontend Mentor - [@Idyazz](https://www.frontendmentor.io/profile/Idyazz)
