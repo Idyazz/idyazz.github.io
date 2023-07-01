@@ -31,7 +31,7 @@ Users should be able to:
 
 ### LINKS
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-w-moblie-first-design-using-vsc-AflCto3k6-
 - Live Site URL: https://idyazz.github.io/
 
 
